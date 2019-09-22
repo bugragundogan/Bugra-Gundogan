@@ -1,0 +1,7 @@
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\obj\Debug\SDESA33.csprojAssemblyReference.cache
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\obj\Debug\SDESA33.csproj.CoreCompileInputs.cache
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\bin\Debug\SDESA33.exe.config
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\bin\Debug\SDESA33.exe
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\bin\Debug\SDESA33.pdb
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\obj\Debug\SDESA33.exe
+C:\Users\Buğra Gündoğan\source\repos\SDESA33\SDESA33\obj\Debug\SDESA33.pdb
