@@ -1,0 +1,7 @@
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\bin\Debug\AlgorithmTrialNError.exe.config
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\bin\Debug\AlgorithmTrialNError.exe
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\bin\Debug\AlgorithmTrialNError.pdb
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\obj\Debug\AlgorithmTrialNError.csprojAssemblyReference.cache
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\obj\Debug\AlgorithmTrialNError.csproj.CoreCompileInputs.cache
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\obj\Debug\AlgorithmTrialNError.exe
+C:\Users\BugraGun\source\repos\AlgorithmTrialNError\AlgorithmTrialNError\obj\Debug\AlgorithmTrialNError.pdb
