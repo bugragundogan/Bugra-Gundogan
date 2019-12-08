@@ -1,0 +1,15 @@
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\bin\Debug\CSE105FinalProject.exe.config
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\bin\Debug\CSE105FinalProject.exe
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\bin\Debug\CSE105FinalProject.pdb
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.csprojAssemblyReference.cache
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\App.g.cs
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject_MarkupCompile.cache
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject_MarkupCompile.lref
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\MainWindow.baml
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.g.resources
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.Properties.Resources.resources
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.csproj.GenerateResource.cache
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.exe
+C:\Users\BugraGun\source\repos\CSE105FinalProject\CSE105FinalProject\obj\Debug\CSE105FinalProject.pdb
